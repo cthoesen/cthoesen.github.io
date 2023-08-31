@@ -1,1 +1,1 @@
-This is just a repository for files that are for use on MyFantasyLeague.com sites. # cthoesen.github.io
+This is a repository for files that are for use on MyFantasyLeague.com sites. # cthoesen.github.io
